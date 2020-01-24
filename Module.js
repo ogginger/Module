@@ -9,6 +9,7 @@ define([ "parse" , "compose" ], function( parse, compose ) {
             "Dependencies": undefined,
             "Exports": undefined,
             "Content": undefined,
+            "Type": undefined,
             "parse": parse,
             "compose": compose
         };
